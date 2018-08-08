@@ -1,6 +1,6 @@
 # Jest builder for Angular build facade
 [![npm version](https://badge.fury.io/js/%40angular-builders%2Fjest.svg)](https://badge.fury.io/js/%40angular-builders%2Fjest)
-[![Build Status](https://travis-ci.org/angular-builders/jest.svg?branch=master)](https://travis-ci.org/angular-builders/jest)
+[![Build Status](https://travis-ci.org/angular-builders/jest.svg?branch=master)](https://travis-ci.org/angular-builders/jest) [![Greenkeeper badge](https://badges.greenkeeper.io/angular-builders/jest.svg)](https://greenkeeper.io/)
 ![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)  
 
 Allows running `ng test` with Jest instead of Karma & Jasmine.
